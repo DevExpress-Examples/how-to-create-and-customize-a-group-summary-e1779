@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/AgDataGrid_GroupSummary/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/AgDataGrid_GroupSummary/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/AgDataGrid_GroupSummary/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_GroupSummary/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/AgDataGrid_GroupSummary/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgDataGrid_GroupSummary/MainPage.xaml.vb))
 * [Products.cs](./CS/AgDataGrid_GroupSummary/Products.cs) (VB: [Products.vb](./VB/AgDataGrid_GroupSummary/Products.vb))
 <!-- default file list end -->
